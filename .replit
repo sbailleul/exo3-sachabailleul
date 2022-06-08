@@ -1,5 +1,5 @@
-run = "./runsample.sh"
-entrypoint = ".lesson/instructions.md"
+run = "./run.sh"
+entrypoint = "README.md"
 
 hidden = ["bin", "obj","**/bin","**/obj"]
 
